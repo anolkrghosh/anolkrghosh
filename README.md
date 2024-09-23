@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm @anolkrghosh
 
-![Portfolio](https://anolkrghosh.vercel.app/)
+[Portfolio](https://anolkrghosh.vercel.app/)
 
 ## 👨‍💻 About Me
 I'm a passionate developer who loves building projects using Javascript. I specialize in Backend Devlopement, and I enjoy working on exciting and innovative solutions.
