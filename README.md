@@ -48,8 +48,9 @@ You can reach me at:
 - GitHub: [@anolkrghosh](https://github.com/your-username)
 - LinkedIn: [@anolkrghosh](https://www.linkedin.com/in/anolkrghosh/)
 - Email: [anolkrghosh@gmail.com](mailto:anolkrghosh@gmail.com)
-![](https://komarev.com/ghpvc/?username=anolkrghosh&color=grey)
+
 ---
 
 ![Joke Card](https://readme-jokes.vercel.app/api?theme=default)
 
+![](https://komarev.com/ghpvc/?username=anolkrghosh&color=grey)
