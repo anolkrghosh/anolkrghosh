@@ -1,26 +1,55 @@
-<h1 align="center">Hi 👋, I'm @anolkrghosh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there! 👋 I'm @anolkrghosh
 
-- 🔭 I’m currently working on **Personal Projects**
+![Portfolio](https://anolkrghosh.vercel.app/)
 
-<h3 align="left">Connect with me: anolkrghosh@gmail.com</h3>
-<p align="left">
-</p>
+## 👨‍💻 About Me
+I'm a passionate developer who loves building projects using Javascript. I specialize in Backend Devlopement, and I enjoy working on exciting and innovative solutions.
 
-###
+- 🔭 I’m currently working on Personal Projects.
+- 🌱 I’m learning Data Science.
+- 👯 I’m looking to collaborate on Data Science.
+- 💬 Ask me about anything related to Debuging.
+- ⚡ Fun fact: Bugs are Red.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-</div>
- 
-###
+---
+
+## 🚀 Tech Stack
+Here are the technologies and tools I work with:
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css&logoColor=white&style=flat-square)
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=anolkrghosh&show_icons=true&hide_border=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anolkrghosh&layout=compact&theme=radical)
+
+---
+
+## 🌟 Featured Projects
+
+### 📌 [area-converter](https://github.com/anolkrghosh/area-converter)
+- A Simple npm package for converting area units.
+- Tech Stack: TS.
+- [Preview](https://area-converter-web.vercel.app/)
+
+---
+
+## ✉️ Get in Touch
+
+You can reach me at:
+
+- GitHub: [@anolkrghosh](https://github.com/your-username)
+- LinkedIn: [@anolkrghosh](https://www.linkedin.com/in/anolkrghosh/)
+- Email: [anolkrghosh@gmail.com](mailto:anolkrghosh@gmail.com)
+
+---
+
+![Joke Card](https://readme-jokes.vercel.app/api?theme=default)
+
